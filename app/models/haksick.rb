@@ -1,0 +1,2 @@
+class Haksick < ApplicationRecord
+end
